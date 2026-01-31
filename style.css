@@ -1,0 +1,19 @@
+.top-header{
+background-color: green;
+
+}
+
+.img-zoom{
+    transition: 1s ease;
+}
+
+.img-zoom:hover{
+  transform: scale(1.5);
+}
+
+
+footer{ padding: 5px; 
+    margin: 0;
+    line-height: 1;
+
+}
